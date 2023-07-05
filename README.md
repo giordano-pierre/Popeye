@@ -46,7 +46,7 @@ To use Popey effectively, follow these guidelines:
 
 4. Deploy the containerized application to your desired hosting platform or infrastructure.
 
-##Contact
+## Contact
 
 If you have any questions or suggestions regarding this project, do not hesitate to contact the project leader:
 
