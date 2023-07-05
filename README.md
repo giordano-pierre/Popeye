@@ -32,8 +32,7 @@ docker build -t popey.
 
 docker run -d --name popey-container popey
 
-
-6. Access your application by visiting `http://localhost` in your web browser.
+6. Access your application by visiting http://localhost:3000 in your web browser.
 
 ## Usage
 
